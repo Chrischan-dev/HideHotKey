@@ -1,0 +1,5 @@
+## Interface: 11200
+## Title: HideHotKey
+## Notes: Hide Hotkeys to Vanilla WoW.
+## Author: Christian
+HideHotKey.lua
